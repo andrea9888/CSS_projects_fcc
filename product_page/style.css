@@ -1,0 +1,15 @@
+nav{
+    position: fixed;
+    top: 0;
+}
+.example{
+    display: flex;
+}
+
+
+
+@media (max-width: 900px) {
+    body {
+      background-color:#fff;
+    }
+  }
